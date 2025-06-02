@@ -2,33 +2,6 @@
 
 Welcome to my internship portfolio for the **Celebal Summer Internship 2025 (CSI)** as a **Data Analyst Intern**. This repository showcases end-to-end analytics solutions built using real-world business data, advanced Python workflows, SQL queries, Power BI dashboards, and Generative AI integrations.
 
-## Repository Structure
-
-Celebal_Technologies/
-│
-├── weekly_tasks/                  # Weekly assignments & notebooks
-│   ├── Week_01_Intro_to_Python/
-│   ├── Week_02_OOP_LinkedList/
-│   ├── Week_03_DataScience_Python/
-│   └── ...
-│
-├── capstone_project/             # Final RAG-based chatbot project
-│   ├── RAG_QA_Chatbot/
-│   └── deployment_streamlit/
-│
-├── dashboards/                   # Power BI and Streamlit dashboards
-│   ├── PowerBI/
-│   └── Streamlit/
-│
-├── sql_queries/                  # SQL tasks and optimizations
-│   └── assignment_solutions.sql
-│
-├── reports/                      # Submission-ready insights & reports
-│   └── summary_weekly_reports/
-│
-└── README.md
-
-
 Highlights
 1. Exploratory Data Analysis (EDA) and feature engineering on real-world datasets
 2. Machine Learning models: Regression, Classification, Clustering
